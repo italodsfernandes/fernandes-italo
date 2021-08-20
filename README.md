@@ -24,7 +24,7 @@
 ##
   
 <div>
- <a href="https://www.linkedin.com/in/italodfernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=?style=flat-square&logo=linkedin&logoColor=white"></a> 
- <a href = "mailto:italo.feernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
- <a href="https://discord.gg/ffbRjQm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/italodfernandes/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:italo.feernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ffbRjQm"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
