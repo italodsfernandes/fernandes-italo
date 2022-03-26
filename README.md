@@ -1,19 +1,31 @@
 ### Olá 👋, Eu sou o Italo
 
-🔭 Trabalho atualmente com Automação Industrial
+:technologist: Trabalho atualmente como Desenvolvedor Full Stack
 
-👨‍🎓 Estou cursando um MBA em Desenvolvimento Full Stack
+:pencil2: Vim da Automação Industrial, onde programava PLCs e HMIs para máquinas industriais. Foi aí que percebi que eu gostava de resolver problemas através de códigos, então decidi migrar de carreira para área de desenvolvimento.
 
-🌱 Tentando aprender...
+:rocket: Estas são as tecnologias que atuo no dia a dia:
+<a href="https://github.com/fernandes-italo"> 
+  <div>
+    <img align="center" alt="Java-Logo" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Spring-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
+    <img align="center" alt="React-Log" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Js-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML5-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img align="center" alt="CSS-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="CSS-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="CSS-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  </div>
+</a>
+
+<br><br>
+
+:seedling: e não posso deixar de falar destas duas abaixo que foi por onde comecei....
 
 <a href="https://github.com/fernandes-italo"> 
-<div style="display: inline_block">
-  <img align="center" alt="Java-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="React-Log" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<div>
+  <img align="center" alt="Java-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring-Logo" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ##
